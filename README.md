@@ -10,3 +10,7 @@ This NFT is held within Mintbase wallet.
 
 ### What's next for QSTN Magic
 To build a desktop app portal.
+
+
+### Live Demo
+https://qstn-magix-app.vercel.app/
