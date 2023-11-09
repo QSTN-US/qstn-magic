@@ -13,10 +13,11 @@
     "@types/node": "20.4.2",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
-    "axios": "1.4.0",
     "autoprefixer": "10.4.14",
+    "axios": "1.4.0",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
+    "lzma-native": "^8.0.6",
     "next": "13.4.10",
     "postcss": "8.4.26",
     "react": "18.2.0",
@@ -24,7 +25,8 @@
     "survey-core": "^1.9.97",
     "survey-react-ui": "^1.9.97",
     "tailwindcss": "3.3.3",
-    "typescript": "5.1.6"
+    "typescript": "5.1.6",
+    "urlencode": "^2.0.0"
   },
   "devDependencies": {
     "@onflow/types": "^1.1.0",
