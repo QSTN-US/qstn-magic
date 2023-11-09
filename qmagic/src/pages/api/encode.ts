@@ -1,7 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from 'next'
-import * as lzma from "lzma-native";
-import { Buffer } from 'buffer';
 import { encode } from 'urlencode';
 import shellExec from 'shell-exec'
 

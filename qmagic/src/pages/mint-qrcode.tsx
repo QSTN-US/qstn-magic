@@ -38,7 +38,7 @@ export default function Surveys() {
             <div className="flex flex-col items-center justify-center">
 
 
-              <Image src={qrCodelink} width={512} height={512} className="h-[512px] w-[512px]" />
+              <Image src={qrCodelink} width={512} height={512} className="h-[512px] w-[512px]" alt="QSTN MAGIX" />
 
                 </div>
                 </div>
