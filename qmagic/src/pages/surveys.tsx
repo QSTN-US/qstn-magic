@@ -29,9 +29,11 @@ export default function Surveys() {
     </div>
   </div>
   <div>
+    <Link href="/mint-qrcode">
     <button className="bg-purple-900 text-white font-medium px-4 py-2 rounded-md flex gap-1 items-center">Mint 
     <Image src="/img/qrcode.svg" width="16" height="16" className="h-[16px] w-[16px] text-white" />
 </button>
+</Link>
   </div>
    </div>
 
@@ -50,9 +52,11 @@ export default function Surveys() {
     </div>
   </div>
   <div>
+  <Link href="/mint-qrcode">
     <button className="bg-purple-900 text-white font-medium px-4 py-2 rounded-md flex gap-1 items-center">Mint 
     <Image src="/img/qrcode.svg" width="16" height="16" className="h-[16px] w-[16px] text-white" />
 </button>
+</Link>
   </div>
    </div>
 
@@ -72,9 +76,11 @@ export default function Surveys() {
  </div>
 </div>
 <div>
+<Link href="/mint-qrcode">
  <button className="bg-purple-900 text-white font-medium px-4 py-2 rounded-md flex gap-1 items-center">Mint 
  <Image src="/img/qrcode.svg" width="16" height="16" className="h-[16px] w-[16px] text-white" />
 </button>
+</Link>
 </div>
 </div>
 

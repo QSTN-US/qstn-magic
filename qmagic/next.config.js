@@ -6,6 +6,12 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
+        hostname: 'chart.googleapis.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
         hostname: 'nftstorage.link',
         port: '',
         pathname: '/ipfs/**',
