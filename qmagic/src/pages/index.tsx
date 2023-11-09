@@ -18,7 +18,7 @@ export default function Home() {
               <h1 className="text-3xl font-bold mb-4 mt-20">QSTN MAGIC v0.1.0</h1>
               <h2 className="text-xl text-center text-gray-600 mb-8">1001+ quizzes to challenge you and your friends knowledge on all topics with instant, shareable magic!</h2>
               <Image src="/img/treasure-chest.png" alt="Quiz Image" className="max-w-xs w-md mb-4 sm:mb-8" width={600} height={600}/>
-              <Link href="/play" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded mt-4">
+              <Link href="/surveys" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded mt-4">
                 Start Playing
               </Link>
             </div>
