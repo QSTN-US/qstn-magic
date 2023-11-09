@@ -1,5 +1,11 @@
 # QSTN-MAGIC
 
+<p align="center">
+
+<img src="https://pngimg.com/uploads/treasure_chest/treasure_chest_PNG21.png?raw=true" width="33%" alt="Flow Qzard"></a>
+
+</p>
+
 QSTN is a Web3 survey marketplace where businesses fund surveys, reward participants, and uphold user privacy through our data wallet-driven profiles.
 
 We built a function which allows anyone to embed and host a website within an NFT.
