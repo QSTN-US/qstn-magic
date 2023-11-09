@@ -19,4 +19,4 @@ To build a desktop app portal.
 
 
 ### Live Demo
-https://qstn-magix-app.vercel.app/
+https://qstn-magix.qstnus.com/
